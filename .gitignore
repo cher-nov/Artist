@@ -1,0 +1,4 @@
+*.exe
+*.res
+backup/
+lib/
